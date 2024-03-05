@@ -1,0 +1,11 @@
+#pragma once
+#include "a89.h"
+#include <QtWidgets/QApplication>
+#include "GUI.h"
+#include "service.h"
+#include "WatchList.h"
+#include "CSVWatchList.h"
+#include "HTMLWatchList.h"
+#include "RepositoryExceptions.h"
+#include "MovieValidator.h"
+#include "tests.h"
